@@ -1,0 +1,347 @@
+#output
+{
+background-color:whitesmoke;
+border-radius: 20px;
+height: 350px;
+margin-left: 515px;
+}
+body
+{
+    text-align: center;
+background-image: linear-gradient(to right top,rgb(0, 255, 34),rgb(0, 255, 34),rgb(7, 206, 7),rgb(14, 160, 14), green);
+}
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+.header
+{
+	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+#room_name
+{
+width: 499px;
+}
+#out
+{
+  background-color:whitesmoke;
+  border-radius: 25px;
+  height: 500px;
+  margin-left: 670px;
+}
+#user_name
+{
+width: 300px;
+border-radius: 5px;
+}
+#user_gmail
+{
+  width: 300px;
+  border-radius: 5px;
+}
+#user_number
+{
+  width: 300px;
+  border-radius: 5px;
+}
+#menu_div
+{
+  background-color:whitesmoke;
+  border-radius: 25px;
+  height: 1400px;
+  width: 1000px;
+  margin-left: 500px;
+
+margin-bottom: 100px;
+}
+#menun_div
+{
+  background-color:whitesmoke;
+  border-radius: 25px;
+  height: 1790px;
+  width: 1000px;
+  margin-left: 500px;
+
+margin-bottom: 100px;
+}
+#gravy
+{
+  margin-top: 20px;
+border-radius: 5px;
+width: 150px;
+height: 45px;
+margin-right: 2000px;
+}
+#tea
+{
+border-radius: 5px;
+width: 150px;
+height: 45px;
+margin-right: 2000px;
+}
+#salad
+{
+  border-radius: 5px;
+  width: 150px;
+  height: 45px;
+  margin-right: 2000px;
+}
+#rice_noodles
+{
+  border-radius: 5px;
+  height: 45px;
+  width: 150px;
+margin-right: 2000px;
+}
+#fried
+{
+  border-radius: 5px;
+  height: 45px;
+  width: 150px;
+margin-right: 2000px;
+}
+#soup
+{
+  border-radius: 5px;
+  height: 45px;
+  width: 150px;
+margin-right: 2000px;
+}
+#ice-cream
+{
+  border-radius: 5px;
+  height: 45px;
+  width: 150px;
+margin-right: 2000px;
+}
+#breads
+{
+  border-radius: 5px;
+  height: 45px;
+  width: 150px;
+margin-right: 2000px;
+}
+#drinks
+{
+border-radius: 3px;
+height: 200px;
+width: 200px;
+margin-left: 50px;
+
+
+}
+#tea_buy
+{
+margin-left: 50px;
+border-radius: 3px;
+}
+#juise_buyorg
+{
+margin-left: 50px;
+border-radius: 3px;
+}
+#choc_ice_cream
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 250px;
+  margin-left: 50px;
+}
+#steam_rice
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 200px;
+  margin-left: 50px;
+  
+}
+#dal_fry
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 200px;
+  margin-left: 50px;
+}
+#Noodles
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 200px;
+  margin-left: 50px;
+  
+  
+}
+#paneerbuttermasala
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 200px;
+  margin-left: 50px;
+}
+#kadaipaneer
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 200px;
+  margin-left: 50px;
+}
+#mushroom_masala
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 200px;
+  margin-left: 50px;
+  
+}
+#dal_dadka
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 200px;
+  margin-left: 50px;
+}
+#Hakka-Noodles
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 200px;
+  margin-left: 50px;
+  
+}
+#ghee_rice
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 250px;
+  margin-left: 50px;
+  
+}
+#vegnoodles
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 200px;
+  margin-left: 50px;
+  
+}
+#fried_search
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 200px;
+  margin-left: 50px;
+}
+#paneerfried_rice
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 200px;
+  margin-left: 50px;
+}
+#straw_berryicecream
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 200px;
+  margin-left: 50px;
+}
+#chocolate-ice-cream
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 230px;
+  margin-left: 50px;
+}
+#pineapple-ice-cream
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 230px;
+  margin-left: 50px;
+}
+#kulfi_icecream
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 230px;
+  margin-left: 50px;
+}
+
+#dal_fry
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 200px;
+  margin-left: 50px;
+}
+#vanila_icecream
+{
+  border-radius: 3px;
+  height: 200px;
+  width: 230px;
+  margin-left: 50px;
+}
+#friedrice_buy
+{
+margin-left: 50px;
+
+}
+#vanila_buy
+{
+  margin-left: 50px;
+}
+#chocoicecream_buy
+{
+margin-left:-450px ;
+}
+#straw_berry_buy
+{
+margin-left: 600px;
+}
+#pineapplececream_buy
+{
+  margin-left: -200px;
+}
+#steam_buy
+{
+margin-left: -450px;
+}
+#kulfi_buy
+{
+  margin-left: 310px;
+}
+#friedricepaneer_buy
+{
+margin-left: 500px;
+}
+#seshwannoodles_buy
+{
+  margin-left: -450px;
+}
+#hakka_buy
+{
+  margin-left: 500px;
+}
+#veg_noodlesbuy
+{
+  margin-left: 50px;
+}
+#paneerbuttermasala_buy
+{
+  margin-left: -450px;
+}
+#order
+
+{
+margin-left: 900px;
+}
+
